@@ -9,7 +9,7 @@ A simple PWA made with React to connect to The Star Wars API (https://swapi.dev/
 You can run the program from the terminal by doing
 
 ```
-$ git clone 
+$ git clone git@github.com:pinhaum/star-wars.git
 $ cd star-wars
 ```
 
